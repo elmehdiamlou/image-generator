@@ -1,0 +1,23 @@
+{
+  "name": "image-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmehdiamlou/image-generator.git"
+  },
+  "author": "Elmehdi Amlou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elmehdiamlou/image-generator/issues"
+  },
+  "homepage": "https://github.com/elmehdiamlou/image-generator#readme",
+  "type": "module",
+  "dependencies": {
+    "canvas": "^2.9.3"
+  }
+}
